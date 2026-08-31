@@ -84,6 +84,11 @@ file = "mods/hexcasting-fabric-1.21.1-0.12.0-devel-pre-51.jar"
 hash = "de23c3e5fb6fb49f7b1b87b2103ffd4655a7331083a806ddb5a72ffb716c81eb"
 
 [[files]]
+file = "mods/inline.pw.toml"
+hash = "5564eb9e3b9a1f1f38cb4e57573559fefd7f9b68804a2cc5380d39dfeaf51b41"
+metafile = true
+
+[[files]]
 file = "mods/jade-sable-compat.pw.toml"
 hash = "dc60a6e206bfd63faa85e420d94deab4efb8948b52960d01ba929f12f4ceb94f"
 metafile = true
