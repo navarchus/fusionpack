@@ -1,0 +1,12 @@
+name = "Fusionpack"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e58d02913001969141427bb8222d9064633119bf0239b8e45b6f250e24f1beee"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "1.21.1"
